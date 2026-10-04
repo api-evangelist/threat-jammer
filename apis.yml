@@ -39,7 +39,6 @@ apis:
   - name: Threat Jammer
     description: "Risk scoring service from curated threat intelligence data"
     humanURL: https://threatjammer.com/docs/index
-    baseURL: https://threatjammer.com/docs/index
     tags:
       - Security
     properties:
